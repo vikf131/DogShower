@@ -113,7 +113,8 @@ float: left;
 .col-3 {
     text-align: center;
     padding-left: 15px;
-    padding-right: 15px; 
+    padding-right: 15px;
+    padding-bottom: 15px; 
     width: 29%;
     float: left;
     position: relative;
